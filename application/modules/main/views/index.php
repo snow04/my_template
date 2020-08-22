@@ -6,7 +6,7 @@
             <center>
                 <a href="<?=base_url('')?>"><img class="image-responsive" src="<?=base_url('support/images/logo.png');?>" alt="" id="logo"></a>
             </center>
-            <h2 class="text-center">MY TEMPLATE</h2>
+            <h2 class="text-center">MY TEMPLATE VER 1.0</h2>
             <form action="" id="loginForm">
                 <div class="form-group">
                     <label for="username">Username: </label>
